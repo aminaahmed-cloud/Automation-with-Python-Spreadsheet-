@@ -51,6 +51,8 @@ print(products_per_supplier)
 
 ```
 
+<img src="https://i.imgur.com/WnOax8Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 - Task 2:
 
@@ -88,6 +90,9 @@ print(products_per_supplier)
 print(total_value_per_supplier)
 
 ```
+
+<img src="https://i.imgur.com/IEXU4rk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 - Task 3:
 
@@ -130,6 +135,8 @@ for product_row in range(2, product_list.max_row + 1):
 print(products_under_10_inv)
 
 ```
+
+<img src="https://i.imgur.com/K9yJ1Vg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 - Task 4:
@@ -181,3 +188,8 @@ print(products_under_10_inv)
 inv_file.save("inventory_with_total_value.xlsx")
 
 ```
+
+<img src="https://i.imgur.com/rP73xe0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+<img src="https://i.imgur.com/61fBStV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
